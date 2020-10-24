@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProxy-P4-115_Form", "ClientProxy-P4-115_Form\ClientProxy-P4-115_Form.csproj", "{A569FBA7-3FC4-4D82-A9AD-5084E0B6EFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A569FBA7-3FC4-4D82-A9AD-5084E0B6EFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A569FBA7-3FC4-4D82-A9AD-5084E0B6EFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A569FBA7-3FC4-4D82-A9AD-5084E0B6EFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A569FBA7-3FC4-4D82-A9AD-5084E0B6EFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6D88C2-B7AB-45D1-BF58-B5F4A17CD2D7}
+	EndGlobalSection
+EndGlobal
